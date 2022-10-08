@@ -112,7 +112,7 @@ PREFIX:~ { # }
 
 OWNER:~ ASASHI-KUN 
 
-Support me by following my Instagram ( just do it 💀)
+Support me by following my Instagram account ( just do it 💀)
 
 https://www.instagram.com/asashi_kunn/
 
