@@ -1633,8 +1633,8 @@ URL:~> ${con.content_urls.mobile.page}
 
 ~> \`\`\`event, antilink, nsfw, remove, ping, open, close, promote, demote\`\`\`\
 \n\n📗 *Note*~> Calls and spamming in bot’s 🤖 Dm will cause a ban so be aware
-\nSupport us by following us on GitHub:
-\nhttps://github.com/iamherok
+\nSupport me by following my Instagram account (just do it 💀)
+\nhttps://www.instagram.com/asashi_kunn/
 `)
             return;
         } catch (e) {
@@ -1665,9 +1665,9 @@ URL:~> ${con.content_urls.mobile.page}
 
 ⁃ _Check the things in list in you_ 💮
 
-Support us by following us on GitHub:
+Support me by following my Instagram account (just do it 💀)
 
-https://github.com/iamherok`)
+https://www.instagram.com/asashi_kunn/`)
     }
     break
     case "reaction": {
@@ -1707,9 +1707,9 @@ https://github.com/iamherok`)
 
 -  _Let's React_ 🔰
 
-Support us by following us on GitHub:
+Support me by following my Instagram account (just do it 💀)
 
-https://github.com/iamherok`)
+https://www.instagram.com/asashi_kunn/`)
     }
     break
     case 'define':
@@ -1914,9 +1914,9 @@ Definition:~> ${def.data.list[0].definition
 
 ✾ Level ✾ ${level}
 
-Support us by following us on GitHub:
+Support me by following my Instagram account (just do it 💀)
 
-https://github.com/iamherok`
+https://www.instagram.com/asashi_kunn/`
         const rank = new canvacord.Rank()
             .setAvatar(ppuser)
             .setLevel(level)
