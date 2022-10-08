@@ -105,16 +105,16 @@ const connect = async () => {
                             ppgroup = 'https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/44-incredible-404-error-pages@3x-1560x760.png'
                         }
                         if (client.action == 'add' && Ievent.includes(client.id)) {
-                            let Itext = `👋 Hi @${num.split('@')[0]}, I'm Ruka_[~器] ♡! 
+                            let Itext = `👋 Hi @${num.split('@')[0]}, I'm asashi-kun_[~器] ♡! 
 welcome to ~> ${metadata.subject}
 
 PREFIX:~ { # }
 
-OWNER:~ Das-Kun ( iamherok )
+OWNER:~ ASASHI-KUN 
 
-Support us by following us on GitHub:
+Support me by following my Instagram ( just do it 💀)
 
-https://github.com/iamherok
+https://www.instagram.com/asashi_kunn/
 
 ─「 ･WELCOME･ 」─
 ⎙ GROUP INFO ⎙:
